@@ -13,6 +13,12 @@ Designing for Emotion - Walter
 
 [The Field Guide to Human-Centered Design](http://www.designkit.org/resources/1)
 
+## Content Design
+
+Content Strategy for the Web
+
+The Elements of Content Strategy Erin Kissane 
+
 ## Ethical Design 
 
 Mike Monteiro (2013) - [How Designers Destroyed the World](https://vimeo.com/68470326)
